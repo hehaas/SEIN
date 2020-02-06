@@ -2,6 +2,7 @@
 SEnd INvoices: email to allotment members with invoice as pdf attachment
 
   '*****************************************************************************
+
   'Purpose   send email to allotment members with invoice as pdf attachment
   'Inputs    1 pdf with n invoices: invoice_(n).pdf (made in Office Word)
   'Assumes   iText software: itextpdf.com  [itextsharp.dll] 
